@@ -1,0 +1,404 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Virat Kohli",
+      "country": "India",
+      "role": "Batsman",
+      "date_of_birth": "1988-11-05",
+      "image": "https://example.com/virat_kohli.jpg",
+      "price": 1000000,
+      "paragraph": "One of the modern greats, known for his aggressive batting style and exceptional run-scoring ability."
+    },
+    {
+      "id": 2,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "role": "Batsman",
+      "date_of_birth": "1990-08-08",
+      "image": "https://example.com/kane_williamson.jpg",
+      "price": 950000,
+      "paragraph": "Elegant and consistent, he is regarded as one of the finest batsmen in the world across all formats."
+    },
+    {
+      "id": 3,
+      "name": "Steve Smith",
+      "country": "Australia",
+      "role": "Batsman",
+      "date_of_birth": "1989-06-02",
+      "image": "https://example.com/steve_smith.jpg",
+      "price": 900000,
+      "paragraph": "Unorthodox yet effective, his unorthodox batting technique and incredible concentration make him a formidable opponent."
+    },
+    {
+      "id": 4,
+      "name": "Joe Root",
+      "country": "England",
+      "role": "Batsman",
+      "date_of_birth": "1990-12-30",
+      "image": "https://example.com/joe_root.jpg",
+      "price": 850000,
+      "paragraph": "Classy and technically sound, he possesses a wide range of strokes and is a key player in England's batting lineup."
+    },
+    {
+      "id": 5,
+      "name": "Kagiso Rabada",
+      "country": "South Africa",
+      "role": "Bowler",
+      "date_of_birth": "1995-05-25",
+      "image": "https://example.com/kagiso_rabada.jpg",
+      "price": 800000,
+      "paragraph": "One of the leading fast bowlers in the world, known for his pace, accuracy, and ability to take wickets consistently."
+    },
+    {
+      "id": 6,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "role": "Batsman",
+      "date_of_birth": "1994-10-15",
+      "image": "https://example.com/babar_azam.jpg",
+      "price": 750000,
+      "paragraph": "A stylish and prolific batsman, Babar Azam is the backbone of Pakistan's batting lineup."
+    },
+    {
+      "id": 7,
+      "name": "David Warner",
+      "country": "Australia",
+      "role": "Batsman",
+      "date_of_birth": "1986-10-27",
+      "image": "https://example.com/david_warner.jpg",
+      "price": 700000,
+      "paragraph": "Known for his explosive batting, David Warner is one of the most feared opening batsmen in the world."
+    },
+    {
+      "id": 8,
+      "name": "Rohit Sharma",
+      "country": "India",
+      "role": "Batsman",
+      "date_of_birth": "1987-04-30",
+      "image": "https://example.com/rohit_sharma.jpg",
+      "price": 650000,
+      "paragraph": "A master of the limited-overs format, Rohit Sharma is known for his ability to score big hundreds."
+    },
+    {
+      "id": 9,
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "role": "Bowler",
+      "date_of_birth": "1993-05-08",
+      "image": "https://example.com/pat_cummins.jpg",
+      "price": 600000,
+      "paragraph": "One of the fastest bowlers in the world, Pat Cummins consistently troubles batsmen with his pace and bounce."
+    },
+    {
+      "id": 10,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "role": "All-rounder",
+      "date_of_birth": "1987-03-24",
+      "image": "https://example.com/shakib_al_hasan.jpg",
+      "price": 550000,
+      "paragraph": "An exceptional all-rounder, Shakib Al Hasan contributes with both bat and ball for Bangladesh."
+    },
+    {
+      "id": 11,
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "role": "Bowler",
+      "date_of_birth": "1993-12-06",
+      "image": "https://example.com/jasprit_bumrah.jpg",
+      "price": 500000,
+      "paragraph": "Renowned for his unorthodox bowling action, Jasprit Bumrah is a key wicket-taker for India."
+    },
+    {
+      "id": 12,
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "role": "Batsman",
+      "date_of_birth": "1992-12-17",
+      "image": "https://example.com/quinton_de_kock.jpg",
+      "price": 450000,
+      "paragraph": "A dynamic left-handed batsman, Quinton de Kock is known for his aggressive strokeplay at the top of the order."
+    },
+    {
+      "id": 13,
+      "name": "Mitchell Starc",
+      "country": "Australia",
+      "role": "Bowler",
+      "date_of_birth": "1990-01-30",
+      "image": "https://example.com/mitchell_starc.jpg",
+      "price": 400000,
+      "paragraph": "One of the premier fast bowlers in the world, Mitchell Starc is known for his deadly yorkers and swing bowling."
+    },
+    {
+      "id": 14,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "role": "Bowler",
+      "date_of_birth": "1998-09-20",
+      "image": "https://example.com/rashid_khan.jpg",
+      "price": 380000,
+      "paragraph": "A talented leg-spinner, Rashid Khan is a game-changer with his ability to pick wickets at crucial moments."
+    },
+    {
+      "id": 15,
+      "name": "Ben Stokes",
+      "country": "England",
+      "role": "All-rounder",
+      "date_of_birth": "1991-06-04",
+      "image": "https://example.com/ben_stokes.jpg",
+      "price": 360000,
+      "paragraph": "A dynamic all-rounder, Ben Stokes' explosive batting and effective bowling make him a valuable asset for England."
+    },
+    {
+      "id": 16,
+      "name": "Ross Taylor",
+      "country": "New Zealand",
+      "role": "Batsman",
+      "date_of_birth": "1984-03-08",
+      "image": "https://example.com/ross_taylor.jpg",
+      "price": 340000,
+      "paragraph": "New Zealand's leading run-scorer, Ross Taylor brings experience and stability to the middle order."
+    },
+    {
+      "id": 17,
+      "name": "Marnus Labuschagne",
+      "country": "Australia",
+      "role": "Batsman",
+      "date_of_birth": "1994-06-22",
+      "image": "https://example.com/marnus_labuschagne.jpg",
+      "price": 320000,
+      "paragraph": "A rising star in international cricket, Marnus Labuschagne has already made a strong impact with his consistent batting."
+    },
+    {
+      "id": 18,
+      "name": "Jason Holder",
+      "country": "West Indies",
+      "role": "All-rounder",
+      "date_of_birth": "1991-11-05",
+      "image": "https://example.com/jason_holder.jpg",
+      "price": 300000,
+      "paragraph": "An imposing all-rounder, Jason Holder's leadership skills and valuable contributions make him an asset for West Indies."
+    },
+    {
+      "id": 19,
+      "name": "Tamim Iqbal",
+      "country": "Bangladesh",
+      "role": "Batsman",
+      "date_of_birth": "1989-03-20",
+      "image": "https://example.com/tamim_iqbal.jpg",
+      "price": 280000,
+      "paragraph": "The leading run-scorer for Bangladesh, Tamim Iqbal is known for his aggressive batting at the top of the order."
+    },
+    {
+      "id": 20,
+      "name": "Ravindra Jadeja",
+      "country": "India",
+      "role": "All-rounder",
+      "date_of_birth": "1988-12-06",
+      "image": "https://example.com/ravindra_jadeja.jpg",
+      "price": 260000,
+      "paragraph": "A multi-dimensional cricketer, Ravindra Jadeja is known for his explosive batting and exceptional fielding skills."
+    },
+    {
+      "id": 21,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "role": "All-rounder",
+      "date_of_birth": "1987-03-24",
+      "image": "https://example.com/shakib_al_hasan.jpg",
+      "price": 240000,
+      "paragraph": "An exceptional all-rounder, Shakib Al Hasan contributes with both bat and ball for Bangladesh."
+    },
+    {
+      "id": 22,
+      "name": "Jos Buttler",
+      "country": "England",
+      "role": "Batsman",
+      "date_of_birth": "1990-09-08",
+      "image": "https://example.com/jos_buttler.jpg",
+      "price": 220000,
+      "paragraph": "A destructive wicket-keeper batsman, Jos Buttler can single-handedly change the course of a match with his aggressive batting."
+    },
+    {
+      "id": 23,
+      "name": "Mohammad Amir",
+      "country": "Pakistan",
+      "role": "Bowler",
+      "date_of_birth": "1992-04-13",
+      "image": "https://example.com/mohammad_amir.jpg",
+      "price": 200000,
+      "paragraph": "A talented left-arm fast bowler, Mohammad Amir has the ability to swing the ball both ways and trouble batsmen."
+    },
+    {
+      "id": 24,
+      "name": "Faf du Plessis",
+      "country": "South Africa",
+      "role": "Batsman",
+      "date_of_birth": "1984-07-13",
+      "image": "https://example.com/faf_du_plessis.jpg",
+      "price": 180000,
+      "paragraph": "An experienced campaigner, Faf du Plessis is known for his calmness under pressure and ability to build innings."
+    },
+    {
+      "id": 25,
+      "name": "Shai Hope",
+      "country": "West Indies",
+      "role": "Batsman",
+      "date_of_birth": "1993-11-10",
+      "image": "https://example.com/shai_hope.jpg",
+      "price": 160000,
+      "paragraph": "A talented young batsman, Shai Hope has shown immense potential with his elegant strokeplay and solid technique."
+    },
+    {
+      "id": 26,
+      "name": "Imran Tahir",
+      "country": "South Africa",
+      "role": "Bowler",
+      "date_of_birth": "1979-03-27",
+      "image": "https://example.com/imran_tahir.jpg",
+      "price": 140000,
+      "paragraph": "A highly effective leg-spinner, Imran Tahir brings energy and wicket-taking ability to South Africa's bowling attack."
+    },
+    {
+      "id": 27,
+      "name": "Rishabh Pant",
+      "country": "India",
+      "role": "Batsman",
+      "date_of_birth": "1997-10-04",
+      "image": "https://example.com/rishabh_pant.jpg",
+      "price": 120000,
+      "paragraph": "A fearless young talent, Rishabh Pant is known for his aggressive batting style and ability to score quickly."
+    },
+    {
+      "id": 28,
+      "name": "Chris Woakes",
+      "country": "England",
+      "role": "All-rounder",
+      "date_of_birth": "1989-03-02",
+      "image": "https://example.com/chris_woakes.jpg",
+      "price": 100000,
+      "paragraph": "A reliable all-rounder, Chris Woakes contributes with both bat and ball, providing balance to England's team."
+    },
+    {
+      "id": 29,
+      "name": "Kusal Perera",
+      "country": "Sri Lanka",
+      "role": "Batsman",
+      "date_of_birth": "1990-08-17",
+      "image": "https://example.com/kusal_perera.jpg",
+      "price": 90000,
+      "paragraph": "A dynamic left-handed batsman, Kusal Perera has the ability to take the game away from the opposition with his aggressive strokeplay."
+    },
+    {
+      "id": 30,
+      "name": "Usman Khawaja",
+      "country": "Australia",
+      "role": "Batsman",
+      "date_of_birth": "1986-12-18",
+      "image": "https://example.com/usman_khawaja.jpg",
+      "price": 80000,
+      "paragraph": "An elegant top-order batsman, Usman Khawaja is known for his stylish strokeplay and solid technique."
+    },
+    {
+      "id": 31,
+      "name": "Martin Guptill",
+      "country": "New Zealand",
+      "role": "Batsman",
+      "date_of_birth": "1986-09-30",
+      "image": "https://example.com/martin_guptill.jpg",
+      "price": 70000,
+      "paragraph": "A powerful opener, Martin Guptill holds the record for the highest individual score in a World Cup match."
+    },
+    {
+      "id": 32,
+      "name": "Moeen Ali",
+      "country": "England",
+      "role": "All-rounder",
+      "date_of_birth": "1987-06-18",
+      "image": "https://example.com/moeen_ali.jpg",
+      "price": 60000,
+      "paragraph": "A versatile all-rounder, Moeen Ali contributes with both bat and ball, providing balance to England's team."
+    },
+    {
+      "id": 33,
+      "name": "Lungi Ngidi",
+      "country": "South Africa",
+      "role": "Bowler",
+      "date_of_birth": "1996-03-29",
+      "image": "https://example.com/lungi_ngidi.jpg",
+      "price": 50000,
+      "paragraph": "A promising young fast bowler, Lungi Ngidi possesses raw pace and the ability to generate bounce."
+    },
+    {
+      "id": 34,
+      "name": "Shikhar Dhawan",
+      "country": "India",
+      "role": "Batsman",
+      "date_of_birth": "1985-12-05",
+      "image": "https://example.com/shikhar_dhawan.jpg",
+      "price": 40000,
+      "paragraph": "A stylish left-handed opener, Shikhar Dhawan is known for his aggressive batting and ability to score big centuries."
+    },
+    {
+      "id": 35,
+      "name": "Kusal Mendis",
+      "country": "Sri Lanka",
+      "role": "Batsman",
+      "date_of_birth": "1995-02-02",
+      "image": "https://example.com/kusal_mendis.jpg",
+      "price": 30000,
+      "paragraph": "A talented young batsman, Kusal Mendis has shown great potential with his elegant strokeplay and ability to bat under pressure."
+    },
+    {
+      "id": 36,
+      "name": "Imad Wasim",
+      "country": "Pakistan",
+      "role": "All-rounder",
+      "date_of_birth": "1988-12-18",
+      "image": "https://example.com/imad_wasim.jpg",
+      "price": 25000,
+      "paragraph": "A versatile all-rounder, Imad Wasim contributes with both bat and ball, providing balance to Pakistan's team."
+    },
+    {
+      "id": 37,
+      "name": "Adil Rashid",
+      "country": "England",
+      "role": "Bowler",
+      "date_of_birth": "1988-02-17",
+      "image": "https://example.com/adil_rashid.jpg",
+      "price": 20000,
+      "paragraph": "A skilled leg-spinner, Adil Rashid is known for his ability to deceive batsmen with his variations and googlies."
+    },
+    {
+      "id": 38,
+      "name": "Mohammad Nabi",
+      "country": "Afghanistan",
+      "role": "All-rounder",
+      "date_of_birth": "1985-01-01",
+      "image": "https://example.com/mohammad_nabi.jpg",
+      "price": 15000,
+      "paragraph": "An experienced all-rounder, Mohammad Nabi contributes with both bat and ball, providing stability to Afghanistan's team."
+    },
+    {
+      "id": 39,
+      "name": "Hashim Amla",
+      "country": "South Africa",
+      "role": "Batsman",
+      "date_of_birth": "1983-03-31",
+      "image": "https://example.com/hashim_amla.jpg",
+      "price": 10000,
+      "paragraph": "A batting stalwart, Hashim Amla holds multiple records and is known for his elegant strokeplay and consistency."
+    },
+    {
+      "id": 40,
+      "name": "Dale Steyn",
+      "country": "South Africa",
+      "role": "Bowler",
+      "date_of_birth": "1983-06-27",
+      "image": "https://example.com/dale_steyn.jpg",
+      "price": 5000,
+      "paragraph": "One of the greatest fast bowlers of all time, Dale Steyn is known for his raw pace and ability to swing the ball."
+    }
+  ]
+}
